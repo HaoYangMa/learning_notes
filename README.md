@@ -2,6 +2,9 @@
 Machine-Learning/Deep-Learning/OpenCV/Statistics/Python  learning_notes
 
 open cmd :
+
 jupyter notebook
+
 or
+
 jupyter notebook --port 9999
