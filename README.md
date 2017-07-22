@@ -1,7 +1,7 @@
 # learning_notes
 Machine-Learning/Deep-Learning/OpenCV/Statistics/Python  learning_notes
 
-##How to use
+## How to use
 
 open cmd :
 
